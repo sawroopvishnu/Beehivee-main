@@ -1,0 +1,1 @@
+chrome-extension://opjjpmhoiojifppkkcdabiobhakljdgm/vendors/vendors.js
